@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "IsaacGonzalez",
-    "repositoryName": "isaacgonzalez.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"IsaacGonzalez","repositoryName":"isaacgonzalez.github.io","branch":"master"},"site":{"title":"Isaac Gonzalez","description":"Mi blog.","url":"http://IsaacGonzalez.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"http://IsaacGonzalez.github.io/themes/Casper"}}
